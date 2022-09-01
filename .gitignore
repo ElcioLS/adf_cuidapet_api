@@ -1,0 +1,7 @@
+.dart_tool/
+.packages
+
+# Conventional directory for build output.
+build/
+# retirando env
+.env
